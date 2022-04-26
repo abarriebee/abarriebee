@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abarriebee
+- 👋 Hi, I’m Avery!
 - 👀 I’m interested in learning new skills in fun ways to express creative thoughts and growth
 - 🌱 I’m currently learning SQL, r, and python
 - 💞️ I’m looking to collaborate on anyhting fun and exciting.
