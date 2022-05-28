@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avery and I enjoy doing analytical research!
-- 👀 I’m interested in following my curiosity and expanding my knowledge in skills that will aid in my analytical journey.
-- 🌱 I’m currently learning SQL, r, tableau and python
+- 👀 I’m interested in following my curiosity while expanding my knowledge and skills that will aid in my analytical journey. 
+- 🌱 I’m currently learning SQL, r, tableau and python.
 - 💞️ I’m looking to collaborate on anything fun and exciting that involves web development or machine learning.
 - 📫 How to reach me @ averybarrera@gmail.com
 
