@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Avery and I enjoy doing analytical research!
 - 👀 I’m interested in following my curiosity while expanding my knowledge and skills that will aid in my analytical journey. 
-- 🌱 I’m currently learning and reviewing SQL, r, python, relational databases, tableau, and more as I study for the CompTIA Data+ Certificate. To help along my journey, I have completed the Google Analytics and freeCodeCamp courses.
+- 🌱 Currently reviewing and expanding my knowledge on SQL, r, python, relational databases, tableau, and more.
+- 🌱🌱 My curent goal is study for the CompTIA Data+ Certification. To help along my journey, I have completed the Google Analytics Certificate and am working on the freeCodeCamp one at the moment.
 - 💞️ I’m looking to collaborate on anything fun and exciting that involves web development or data analysis.
 - 📫 How to reach me @ averybarrera@gmail.com
 
